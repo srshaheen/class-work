@@ -105,11 +105,10 @@ nav ul li a:hover {
   margin-top: 20px;
   font-size: 20px;
   border: 1px solid tomato;
-  transition: background 0.7s;
+  transition: 0.7s;
   cursor: pointer;
 }
 
 .hero-content button:hover {
   background: transparent;
-  transform: scale(1.1);
 }
